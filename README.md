@@ -27,7 +27,6 @@ This project applies Market Basket Analysis to grocery transaction data using th
 | File | Description |
 |------|-------------|
 | `Market Basket Analysis.ipynb` | Full notebook with EDA, Apriori modeling, and visualizations |
-| `Market Basket Analysis.html` | Rendered notebook for preview |
 | `groceries2.csv` | Raw transactional dataset |
 | `market_basket_cleaned.csv` | Cleaned and encoded version used for model input |
 
